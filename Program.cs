@@ -13,7 +13,7 @@
                 .ToArray();
 
             int n = nM[0];
-            int m = nM[1];
+            int m = nM[1];ghfhjlkm;
 
             char[,] matrix = new char[n, m];
 
